@@ -6,6 +6,6 @@ Here's a complete Python script that provides a basic website copying and
 ##command 
 ```bash
 git clone https://github.com/darkboss1/darkboss1_website_copy_organizer.git
-command Run: python darkboss1-website_info_verification.py
+command Run: python darkboss1-website_organizer.py 
 ```
 ### For more information,visit this link - www.serialkey.top
